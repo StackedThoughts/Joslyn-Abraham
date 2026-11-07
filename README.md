@@ -21,37 +21,145 @@
 
 ---
 
-## About
 
-I'm a software developer interested in building reliable backend systems and exploring practical AI engineering.
+<!-- ═══════════════ 01 / IDENTITY ═══════════════ -->
 
-My focus is on understanding how intelligent applications work beyond the model itself, from backend architecture and data retrieval to agent workflows and evaluation.
+<h2 align="center">
+  ◈ &nbsp; BEYOND THE INTERFACE &nbsp; ◈
+</h2>
 
-## Focus Areas
+<p align="center">
+  <samp>INTO THE LOGIC BEHIND INTELLIGENT SYSTEMS.</samp>
+</p>
 
-| Area | Exploring |
-|---|---|
-| Backend Engineering | Python, APIs, system design |
-| Generative AI | LLMs, prompt engineering |
-| Retrieval Systems | RAG, embeddings, vector search |
-| AI Agents | Tool calling, agentic workflows |
-| AI Engineering | Evaluation, observability, reliability |
+<p align="center">
+  I explore the space where software engineering meets artificial intelligence.
+  <br/>
+  From backend architecture to systems that retrieve, reason and execute.
+</p>
 
-## Currently Building & Learning
+<br/>
 
-- Designing AI-powered backend applications.
-- Exploring reliable LLM integrations.
-- Learning RAG and retrieval architectures.
-- Experimenting with AI agents and tool calling.
-- Understanding production-grade AI systems.
+<!-- ═══════════════ 02 / DOMAINS ═══════════════ -->
 
-## Selected Projects
+<h2 align="center">⌘ &nbsp; SYSTEM DOMAINS</h2>
 
-<!-- Replace these with actual projects -->
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-- **Project 01** — Coming soon.
-- **Project 02** — Coming soon.
-- **Project 03** — Coming soon.
+### λ / COMPUTATION
+
+<sub>THE ENGINE</sub>
+
+Python · APIs · Backend
+
+</td>
+<td align="center" width="50%">
+
+### ∴ / INTELLIGENCE
+
+<sub>THE MODEL</sub>
+
+LLMs · Context · Prompts
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### ⌕ / RETRIEVAL
+
+<sub>THE MEMORY</sub>
+
+RAG · Embeddings · Vector Search
+
+</td>
+<td align="center" width="50%">
+
+### ⟡ / AUTONOMY
+
+<sub>THE ACTION</sub>
+
+Agents · Tool Calling · Workflows
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### ◉ / OBSERVABILITY
+
+<sub>THE FEEDBACK LOOP</sub>
+
+Tracing · Evals · Quality
+
+</td>
+<td align="center" width="50%">
+
+### ⌬ / ARCHITECTURE
+
+<sub>THE FOUNDATION</sub>
+
+System Design · Reliability · Debugging
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ 03 / LAB ═══════════════ -->
+
+<h2 align="center">◌ &nbsp; IN THE LAB</h2>
+
+<p align="center">
+  <samp>ITERATION_ONGOING</samp>
+</p>
+
+<table align="center">
+<tr>
+<td><code>01</code></td>
+<td>
+<b>Context → Retrieval → Response</b>
+<br/>
+<sub>Engineering RAG pipelines and context-aware applications.</sub>
+</td>
+</tr>
+<tr>
+<td><code>02</code></td>
+<td>
+<b>Reason → Tool → Execute</b>
+<br/>
+<sub>Exploring agentic workflows and tool orchestration.</sub>
+</td>
+</tr>
+<tr>
+<td><code>03</code></td>
+<td>
+<b>Trace → Evaluate → Improve</b>
+<br/>
+<sub>LLM evaluation, tracing and output reliability.</sub>
+</td>
+</tr>
+<tr>
+<td><code>04</code></td>
+<td>
+<b>Input → Process → System</b>
+<br/>
+<sub>Building production-ready AI backend applications.</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <samp>
+    THINK IN SYSTEMS &nbsp; · &nbsp;
+    BUILD WITH INTENTION
+  </samp>
+</p>
 
 ## Connect
 
