@@ -1,217 +1,196 @@
 
 <!-- ================================================= -->
-<!--                  00 / HERO                        -->
+<!-- 01 / PROFILE                                     -->
 <!-- ================================================= -->
 
-<p align="center">
-  <img
-    src="./assets/ai-engineering-morph.svg"
-    alt="AI × Engineering"
-    width="100%"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <samp>BACKEND ENGINEERING × ARTIFICIAL INTELLIGENCE</samp>
-</p>
+  <samp>◈ SOFTWARE ENGINEERING / ARTIFICIAL INTELLIGENCE</samp>
+
+  <h2>Building beyond the model.</h2>
+
+  Backend systems, intelligent workflows and the engineering
+  that makes AI useful in the real world.
+
+</div>
 
 <br/>
 
 <!-- ================================================= -->
-<!--                01 / IDENTITY                      -->
+<!-- 02 / ENGINEERING                                 -->
 <!-- ================================================= -->
 
-<h2 align="center">◈ &nbsp; BEYOND THE INTERFACE</h2>
+<h2>⌘ &nbsp; Engineering map</h2>
 
-<p align="center">
-  <samp>INTO THE LOGIC BEHIND INTELLIGENT SYSTEMS.</samp>
+<p>
+  <sub>
+    A look at the systems, technologies and concepts shaping my work.
+  </sub>
 </p>
 
-<p align="center">
-  A software developer exploring the intersection of backend engineering
-  and artificial intelligence.
-  <br/>
-  Interested in how systems process information, retrieve context,
-  reason and execute.
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+**λ &nbsp; COMPUTATION**
 
-<!-- ================================================= -->
-<!--               02 / ENGINEERING MAP                -->
-<!-- ================================================= -->
+<sub>01 / BACKEND</sub>
 
-<h2 align="center">◈ &nbsp; ENGINEERING MAP</h2>
+<img src="https://skillicons.dev/icons?i=python,fastapi,ts" height="32" />
 
-<p align="center">
-  <samp>THE TECHNOLOGIES AND SYSTEMS I'M EXPLORING</samp>
-</p>
+Python · APIs · TypeScript
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>⌘ COMPUTATION</h3>
-      <sub>01 / BACKEND SYSTEMS</sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,fastapi,ts"
-           height="42" alt="Python FastAPI TypeScript"/>
-      <br/><br/>
-      <sub>Python · APIs · TypeScript</sub>
-    </td>
+</td>
+<td width="50%" valign="top">
 
-    <td align="center" width="50%">
-      <h3>✳ INTELLIGENCE</h3>
-      <sub>02 / LANGUAGE MODELS</sub>
-      <br/><br/>
-      <img src="https://cdn.simpleicons.org/openai/FFFFFF"
-           height="42" alt="OpenAI"/>
-      &nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=azure"
-           height="42" alt="Azure"/>
-      <br/><br/>
-      <sub>LLMs · Azure AI · Prompt Engineering</sub>
-    </td>
-  </tr>
+**∴ &nbsp; INTELLIGENCE**
 
-  <tr>
-    <td align="center" width="50%">
-      <h3>⌕ RETRIEVAL</h3>
-      <sub>03 / KNOWLEDGE SYSTEMS</sub>
-      <br/><br/>
-      <img src="https://cdn.simpleicons.org/langchain/FFFFFF"
-           height="42" alt="LangChain"/>
-      &nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/postgresql/4169E1"
-           height="42" alt="PostgreSQL"/>
-      <br/><br/>
-      <sub>RAG · Embeddings · Vector Search</sub>
-    </td>
+<sub>02 / GENERATIVE AI</sub>
 
-    <td align="center" width="50%">
-      <h3>⟡ AUTONOMY</h3>
-      <sub>04 / AGENTIC SYSTEMS</sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=playwright"
-           height="42" alt="Playwright"/>
-      &nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/openai/FFFFFF"
-           height="42" alt="OpenAI"/>
-      <br/><br/>
-      <sub>AI Agents · Tool Calling · Automation</sub>
-    </td>
-  </tr>
+<img src="https://skillicons.dev/icons?i=azure" height="32" />
 
-  <tr>
-    <td align="center" width="50%">
-      <h3>◉ OBSERVABILITY</h3>
-      <sub>05 / EVALUATION</sub>
-      <br/><br/>
-      <img src="https://cdn.simpleicons.org/langfuse/FFFFFF"
-           height="42" alt="Langfuse"/>
-      <br/><br/>
-      <sub>Tracing · Evaluations · AI Quality</sub>
-    </td>
+LLMs · Prompt Engineering · Model Integration
 
-    <td align="center" width="50%">
-      <h3>⌬ INFRASTRUCTURE</h3>
-      <sub>06 / ENGINEERING FOUNDATION</sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=docker,git,github"
-           height="42" alt="Docker Git GitHub"/>
-      <br/><br/>
-      <sub>Docker · Git · System Design</sub>
-    </td>
-  </tr>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⌕ &nbsp; RETRIEVAL**
+
+<sub>03 / KNOWLEDGE</sub>
+
+<img src="https://skillicons.dev/icons?i=postgres" height="32" />
+
+RAG · Embeddings · Vector Search
+
+</td>
+<td width="50%" valign="top">
+
+**⟡ &nbsp; AUTONOMY**
+
+<sub>04 / EXECUTION</sub>
+
+<img src="https://skillicons.dev/icons?i=playwright" height="32" />
+
+Agents · Tool Calling · Automation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**◉ &nbsp; OBSERVABILITY**
+
+<sub>05 / EVALUATION</sub>
+
+LLM Tracing · Evaluations · Quality
+
+</td>
+<td width="50%" valign="top">
+
+**⌬ &nbsp; INFRASTRUCTURE**
+
+<sub>06 / SYSTEMS</sub>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github" height="32" />
+
+Docker · Git · System Design
+
+</td>
+</tr>
 </table>
 
 <br/>
 
 <!-- ================================================= -->
-<!--                03 / ACTIVE PROCESSES              -->
+<!-- 03 / CURRENT WORK                                 -->
 <!-- ================================================= -->
 
-<h2 align="center">∿ &nbsp; ACTIVE PROCESSES</h2>
+<h2>∿ &nbsp; Current explorations</h2>
 
-<p align="center">
-  <samp>ITERATION_ONGOING / IDEAS INTO SYSTEMS</samp>
+<p>
+  <sub>IDEAS IN MOTION / ITERATION ONGOING</sub>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center"><code>01</code></td>
-    <td>
-      <b>Context → Retrieval → Response</b>
-      <br/>
-      <sub>Exploring RAG pipelines, embeddings and context-aware applications.</sub>
-    </td>
-    <td align="center">⌕</td>
-  </tr>
+<table>
+<tr>
+<td width="38">
 
-  <tr>
-    <td align="center"><code>02</code></td>
-    <td>
-      <b>Reason → Tool → Execute</b>
-      <br/>
-      <sub>Exploring agentic workflows, tool calling and orchestration.</sub>
-    </td>
-    <td align="center">⟡</td>
-  </tr>
+<code>01</code>
 
-  <tr>
-    <td align="center"><code>03</code></td>
-    <td>
-      <b>Trace → Evaluate → Improve</b>
-      <br/>
-      <sub>Understanding LLM evaluations, observability and reliability.</sub>
-    </td>
-    <td align="center">◉</td>
-  </tr>
+</td>
+<td>
 
-  <tr>
-    <td align="center"><code>04</code></td>
-    <td>
-      <b>Input → Process → System</b>
-      <br/>
-      <sub>Building practical AI-powered backend applications.</sub>
-    </td>
-    <td align="center">⌬</td>
-  </tr>
+**Context → Retrieval → Response**
+
+<sub>RAG pipelines, retrieval quality and context-aware systems.</sub>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<code>02</code>
+
+</td>
+<td>
+
+**Reason → Tool → Execute**
+
+<sub>Agentic workflows, tool orchestration and execution.</sub>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<code>03</code>
+
+</td>
+<td>
+
+**Trace → Evaluate → Improve**
+
+<sub>LLM evaluation, observability and reliability.</sub>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<code>04</code>
+
+</td>
+<td>
+
+**Input → Process → System**
+
+<sub>Production-oriented AI backend applications.</sub>
+
+</td>
+</tr>
 </table>
 
 <br/>
 
 <!-- ================================================= -->
-<!--                 04 / CONNECT                      -->
+<!-- 04 / CONNECTIONS                                  -->
 <!-- ================================================= -->
 
-<h2 align="center">⌁ &nbsp; CONNECTIONS</h2>
+<h2>⌁ &nbsp; Find me</h2>
 
-<p align="center">
+<p>
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-0B0C10?style=for-the-badge&logo=github&logoColor=white"
-         alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>
   </a>
-
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0B0C10?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 <br/>
 
-<!-- ================================================= -->
-<!--                   FOOTER                          -->
-<!-- ================================================= -->
-
 <p align="center">
-  <samp>
-    THINK IN SYSTEMS &nbsp;·&nbsp;
-    BUILD WITH INTENTION &nbsp;·&nbsp;
-    ENGINEER WITH PURPOSE
-  </samp>
-</p>
-
-<p align="center">
-  <sub>◈ LEARN CONTINUOUSLY / BUILD THOUGHTFULLY ◈</sub>
+  <sub>THINK IN SYSTEMS. BUILD WITH INTENTION.</sub>
 </p>
